@@ -7,6 +7,7 @@ public static void main(String[] args) {
 	ArrayList al=new ArrayList();
 	al.add(12);
 	al.add(25);
+	al.add(35);
 	System.out.println(al);
 }
 }
